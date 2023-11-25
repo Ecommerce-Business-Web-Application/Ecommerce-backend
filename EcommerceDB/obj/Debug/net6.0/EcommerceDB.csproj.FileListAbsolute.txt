@@ -1,0 +1,14 @@
+D:\Prooject\EcommerceDB\EcommerceDB\bin\Debug\net6.0\EcommerceDB.deps.json
+D:\Prooject\EcommerceDB\EcommerceDB\bin\Debug\net6.0\EcommerceDB.runtimeconfig.json
+D:\Prooject\EcommerceDB\EcommerceDB\bin\Debug\net6.0\EcommerceDB.dll
+D:\Prooject\EcommerceDB\EcommerceDB\bin\Debug\net6.0\EcommerceDB.pdb
+D:\Prooject\EcommerceDB\EcommerceDB\obj\Debug\net6.0\EcommerceDB.csproj.AssemblyReference.cache
+D:\Prooject\EcommerceDB\EcommerceDB\obj\Debug\net6.0\EcommerceDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prooject\EcommerceDB\EcommerceDB\obj\Debug\net6.0\EcommerceDB.AssemblyInfoInputs.cache
+D:\Prooject\EcommerceDB\EcommerceDB\obj\Debug\net6.0\EcommerceDB.AssemblyInfo.cs
+D:\Prooject\EcommerceDB\EcommerceDB\obj\Debug\net6.0\EcommerceDB.csproj.CoreCompileInputs.cache
+D:\Prooject\EcommerceDB\EcommerceDB\obj\Debug\net6.0\EcommerceDB.dll
+D:\Prooject\EcommerceDB\EcommerceDB\obj\Debug\net6.0\refint\EcommerceDB.dll
+D:\Prooject\EcommerceDB\EcommerceDB\obj\Debug\net6.0\EcommerceDB.pdb
+D:\Prooject\EcommerceDB\EcommerceDB\obj\Debug\net6.0\EcommerceDB.genruntimeconfig.cache
+D:\Prooject\EcommerceDB\EcommerceDB\obj\Debug\net6.0\ref\EcommerceDB.dll
