@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Prooject\\EcommerceDB\\Ecommerce\\Ecommerce.csproj": {}
+    "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce\\Ecommerce.csproj": {}
   },
   "projects": {
-    "D:\\Prooject\\EcommerceDB\\EcommerceDB\\EcommerceDB.csproj": {
+    "D:\\Project Pukar\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Prooject\\EcommerceDB\\EcommerceDB\\EcommerceDB.csproj",
+        "projectUniqueName": "D:\\Project Pukar\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj",
         "projectName": "EcommerceDB",
-        "projectPath": "D:\\Prooject\\EcommerceDB\\EcommerceDB\\EcommerceDB.csproj",
-        "packagesPath": "C:\\Users\\LEGION\\.nuget\\packages\\",
-        "outputPath": "D:\\Prooject\\EcommerceDB\\EcommerceDB\\obj\\",
+        "projectPath": "D:\\Project Pukar\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj",
+        "packagesPath": "C:\\Users\\Manish Shakya\\.nuget\\packages\\",
+        "outputPath": "D:\\Project Pukar\\Ecommerce-backend\\EcommerceDB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LEGION\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Manish Shakya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,7 +67,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -76,21 +77,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Prooject\\EcommerceDB\\Ecommerce\\Ecommerce.csproj": {
+    "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce\\Ecommerce.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Prooject\\EcommerceDB\\Ecommerce\\Ecommerce.csproj",
+        "projectUniqueName": "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce\\Ecommerce.csproj",
         "projectName": "Ecommerce",
-        "projectPath": "D:\\Prooject\\EcommerceDB\\Ecommerce\\Ecommerce.csproj",
-        "packagesPath": "C:\\Users\\LEGION\\.nuget\\packages\\",
-        "outputPath": "D:\\Prooject\\EcommerceDB\\Ecommerce\\obj\\",
+        "projectPath": "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce\\Ecommerce.csproj",
+        "packagesPath": "C:\\Users\\Manish Shakya\\.nuget\\packages\\",
+        "outputPath": "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LEGION\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Manish Shakya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -104,8 +105,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Prooject\\EcommerceDB\\EcommerceDB\\EcommerceDB.csproj": {
-                "projectPath": "D:\\Prooject\\EcommerceDB\\EcommerceDB\\EcommerceDB.csproj"
+              "D:\\Project Pukar\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj": {
+                "projectPath": "D:\\Project Pukar\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj"
               }
             }
           }
@@ -151,7 +152,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -163,7 +165,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

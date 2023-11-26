@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Prooject\\EcommerceDB\\EcommerceDB\\EcommerceDB.csproj": {}
+    "D:\\Project Pukar\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj": {}
   },
   "projects": {
-    "D:\\Prooject\\EcommerceDB\\EcommerceDB\\EcommerceDB.csproj": {
+    "D:\\Project Pukar\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Prooject\\EcommerceDB\\EcommerceDB\\EcommerceDB.csproj",
+        "projectUniqueName": "D:\\Project Pukar\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj",
         "projectName": "EcommerceDB",
-        "projectPath": "D:\\Prooject\\EcommerceDB\\EcommerceDB\\EcommerceDB.csproj",
-        "packagesPath": "C:\\Users\\LEGION\\.nuget\\packages\\",
-        "outputPath": "D:\\Prooject\\EcommerceDB\\EcommerceDB\\obj\\",
+        "projectPath": "D:\\Project Pukar\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj",
+        "packagesPath": "C:\\Users\\Manish Shakya\\.nuget\\packages\\",
+        "outputPath": "D:\\Project Pukar\\Ecommerce-backend\\EcommerceDB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LEGION\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Manish Shakya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,7 +67,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -76,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
