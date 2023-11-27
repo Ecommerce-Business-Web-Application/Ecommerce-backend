@@ -1929,19 +1929,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Pukar\\.nuget\\packages\\": {}
+    "C:\\Users\\Manish Shakya\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Projects\\Ecommerce-backend\\EcommerceData\\EcommerceData.csproj",
+      "projectUniqueName": "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce-backend\\EcommerceData\\EcommerceData.csproj",
       "projectName": "EcommerceData",
-      "projectPath": "G:\\Projects\\Ecommerce-backend\\EcommerceData\\EcommerceData.csproj",
-      "packagesPath": "C:\\Users\\Pukar\\.nuget\\packages\\",
-      "outputPath": "G:\\Projects\\Ecommerce-backend\\EcommerceData\\obj\\",
+      "projectPath": "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce-backend\\EcommerceData\\EcommerceData.csproj",
+      "packagesPath": "C:\\Users\\Manish Shakya\\.nuget\\packages\\",
+      "outputPath": "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce-backend\\EcommerceData\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Pukar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Manish Shakya\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1955,8 +1955,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "G:\\Projects\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj": {
-              "projectPath": "G:\\Projects\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj"
+            "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj": {
+              "projectPath": "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj"
             }
           }
         }

@@ -7333,19 +7333,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Pukar\\.nuget\\packages\\": {}
+    "C:\\Users\\Manish Shakya\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Projects\\Ecommerce-backend\\Ecommerce\\Ecommerce.csproj",
+      "projectUniqueName": "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce-backend\\Ecommerce\\Ecommerce.csproj",
       "projectName": "Ecommerce",
-      "projectPath": "G:\\Projects\\Ecommerce-backend\\Ecommerce\\Ecommerce.csproj",
-      "packagesPath": "C:\\Users\\Pukar\\.nuget\\packages\\",
-      "outputPath": "G:\\Projects\\Ecommerce-backend\\Ecommerce\\obj\\",
+      "projectPath": "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce-backend\\Ecommerce\\Ecommerce.csproj",
+      "packagesPath": "C:\\Users\\Manish Shakya\\.nuget\\packages\\",
+      "outputPath": "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce-backend\\Ecommerce\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Pukar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Manish Shakya\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7359,11 +7359,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "G:\\Projects\\Ecommerce-backend\\EcommerceData\\EcommerceData.csproj": {
-              "projectPath": "G:\\Projects\\Ecommerce-backend\\EcommerceData\\EcommerceData.csproj"
+            "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce-backend\\EcommerceData\\EcommerceData.csproj": {
+              "projectPath": "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce-backend\\EcommerceData\\EcommerceData.csproj"
             },
-            "G:\\Projects\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj": {
-              "projectPath": "G:\\Projects\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj"
+            "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj": {
+              "projectPath": "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj"
             }
           }
         }

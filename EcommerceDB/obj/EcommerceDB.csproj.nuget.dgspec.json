@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Projects\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj": {}
+    "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj": {}
   },
   "projects": {
-    "G:\\Projects\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj": {
+    "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Projects\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj",
+        "projectUniqueName": "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj",
         "projectName": "EcommerceDB",
-        "projectPath": "G:\\Projects\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj",
-        "packagesPath": "C:\\Users\\Pukar\\.nuget\\packages\\",
-        "outputPath": "G:\\Projects\\Ecommerce-backend\\EcommerceDB\\obj\\",
+        "projectPath": "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj",
+        "packagesPath": "C:\\Users\\Manish Shakya\\.nuget\\packages\\",
+        "outputPath": "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce-backend\\EcommerceDB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Pukar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Manish Shakya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
