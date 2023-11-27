@@ -1,0 +1,15 @@
+G:\Projects\Ecommerce-backend\EcommerceData\obj\Debug\net6.0\EcommerceData.csproj.AssemblyReference.cache
+G:\Projects\Ecommerce-backend\EcommerceData\obj\Debug\net6.0\EcommerceData.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Ecommerce-backend\EcommerceData\obj\Debug\net6.0\EcommerceData.AssemblyInfoInputs.cache
+G:\Projects\Ecommerce-backend\EcommerceData\obj\Debug\net6.0\EcommerceData.AssemblyInfo.cs
+G:\Projects\Ecommerce-backend\EcommerceData\obj\Debug\net6.0\EcommerceData.csproj.CoreCompileInputs.cache
+G:\Projects\Ecommerce-backend\EcommerceData\bin\Debug\net6.0\EcommerceData.deps.json
+G:\Projects\Ecommerce-backend\EcommerceData\bin\Debug\net6.0\EcommerceData.dll
+G:\Projects\Ecommerce-backend\EcommerceData\bin\Debug\net6.0\EcommerceData.pdb
+G:\Projects\Ecommerce-backend\EcommerceData\bin\Debug\net6.0\EcommerceDB.dll
+G:\Projects\Ecommerce-backend\EcommerceData\bin\Debug\net6.0\EcommerceDB.pdb
+G:\Projects\Ecommerce-backend\EcommerceData\obj\Debug\net6.0\EcommerceData.csproj.CopyComplete
+G:\Projects\Ecommerce-backend\EcommerceData\obj\Debug\net6.0\EcommerceData.dll
+G:\Projects\Ecommerce-backend\EcommerceData\obj\Debug\net6.0\refint\EcommerceData.dll
+G:\Projects\Ecommerce-backend\EcommerceData\obj\Debug\net6.0\EcommerceData.pdb
+G:\Projects\Ecommerce-backend\EcommerceData\obj\Debug\net6.0\ref\EcommerceData.dll

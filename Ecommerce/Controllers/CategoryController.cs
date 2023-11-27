@@ -1,4 +1,5 @@
-﻿using EcommerceDB.Models;
+﻿using EcommerceDB;
+using EcommerceDB.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
