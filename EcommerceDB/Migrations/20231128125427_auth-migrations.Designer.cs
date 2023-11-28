@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EcommerceDB.Migrations
 {
     [DbContext(typeof(EcommerceDbContext))]
-    [Migration("20231128072158_identity")]
-    partial class identity
+    [Migration("20231128125427_auth-migrations")]
+    partial class authmigrations
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
