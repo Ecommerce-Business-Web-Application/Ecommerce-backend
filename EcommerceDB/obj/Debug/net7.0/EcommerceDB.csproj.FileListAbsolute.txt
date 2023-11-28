@@ -12,3 +12,17 @@ D:\Project Pukar\Ecommerce-backend\Ecommerce-backend\EcommerceDB\obj\Debug\net7.
 D:\Project Pukar\Ecommerce-backend\Ecommerce-backend\EcommerceDB\obj\Debug\net7.0\EcommerceDB.pdb
 D:\Project Pukar\Ecommerce-backend\Ecommerce-backend\EcommerceDB\obj\Debug\net7.0\EcommerceDB.genruntimeconfig.cache
 D:\Project Pukar\Ecommerce-backend\Ecommerce-backend\EcommerceDB\obj\Debug\net7.0\ref\EcommerceDB.dll
+D:\Project Pukar\Ecommerce-backend\EcommerceDB\bin\Debug\net7.0\EcommerceDB.deps.json
+D:\Project Pukar\Ecommerce-backend\EcommerceDB\bin\Debug\net7.0\EcommerceDB.runtimeconfig.json
+D:\Project Pukar\Ecommerce-backend\EcommerceDB\bin\Debug\net7.0\EcommerceDB.dll
+D:\Project Pukar\Ecommerce-backend\EcommerceDB\bin\Debug\net7.0\EcommerceDB.pdb
+D:\Project Pukar\Ecommerce-backend\EcommerceDB\obj\Debug\net7.0\EcommerceDB.csproj.AssemblyReference.cache
+D:\Project Pukar\Ecommerce-backend\EcommerceDB\obj\Debug\net7.0\EcommerceDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Pukar\Ecommerce-backend\EcommerceDB\obj\Debug\net7.0\EcommerceDB.AssemblyInfoInputs.cache
+D:\Project Pukar\Ecommerce-backend\EcommerceDB\obj\Debug\net7.0\EcommerceDB.AssemblyInfo.cs
+D:\Project Pukar\Ecommerce-backend\EcommerceDB\obj\Debug\net7.0\EcommerceDB.csproj.CoreCompileInputs.cache
+D:\Project Pukar\Ecommerce-backend\EcommerceDB\obj\Debug\net7.0\EcommerceDB.dll
+D:\Project Pukar\Ecommerce-backend\EcommerceDB\obj\Debug\net7.0\refint\EcommerceDB.dll
+D:\Project Pukar\Ecommerce-backend\EcommerceDB\obj\Debug\net7.0\EcommerceDB.pdb
+D:\Project Pukar\Ecommerce-backend\EcommerceDB\obj\Debug\net7.0\EcommerceDB.genruntimeconfig.cache
+D:\Project Pukar\Ecommerce-backend\EcommerceDB\obj\Debug\net7.0\ref\EcommerceDB.dll

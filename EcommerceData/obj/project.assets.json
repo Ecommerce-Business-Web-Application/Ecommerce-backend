@@ -2109,11 +2109,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce-backend\\EcommerceData\\EcommerceData.csproj",
+      "projectUniqueName": "D:\\Project Pukar\\Ecommerce-backend\\EcommerceData\\EcommerceData.csproj",
       "projectName": "EcommerceData",
-      "projectPath": "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce-backend\\EcommerceData\\EcommerceData.csproj",
+      "projectPath": "D:\\Project Pukar\\Ecommerce-backend\\EcommerceData\\EcommerceData.csproj",
       "packagesPath": "C:\\Users\\Manish Shakya\\.nuget\\packages\\",
-      "outputPath": "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce-backend\\EcommerceData\\obj\\",
+      "outputPath": "D:\\Project Pukar\\Ecommerce-backend\\EcommerceData\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Manish Shakya\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2130,8 +2130,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj": {
-              "projectPath": "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj"
+            "D:\\Project Pukar\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj": {
+              "projectPath": "D:\\Project Pukar\\Ecommerce-backend\\EcommerceDB\\EcommerceDB.csproj"
             }
           }
         }

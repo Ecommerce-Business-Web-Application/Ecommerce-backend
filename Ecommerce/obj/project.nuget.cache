@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tW60ObhIGTM9UtDOy16rdorM4ddNzCjhVbEg4XlVwn8bW7Bj9e7//CjdGgZnkJ0hkJrUt/nhmoV3rKCFOYRTuA==",
+  "dgSpecHash": "9+6DWLqJWDQ7xdHkCFpxZtKNY9MVWOc0xmoSCCBU26O1PxHjaJ+iDC1FsnDJevbKVUSkWbw7hutQAq1KTgvMkw==",
   "success": true,
-  "projectFilePath": "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce-backend\\Ecommerce\\Ecommerce.csproj",
+  "projectFilePath": "D:\\Project Pukar\\Ecommerce-backend\\Ecommerce\\Ecommerce.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Manish Shakya\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\Manish Shakya\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
