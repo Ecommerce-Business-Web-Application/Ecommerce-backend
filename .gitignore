@@ -73,6 +73,7 @@ _[Ss]cripts
 *.nupkg
 *.ncrunchsolution
 *.dot[Cc]over
+*.vsidx
 App_Data
 Ebps.Domain/*.cs
 Ebps.Domain/*.edmx
