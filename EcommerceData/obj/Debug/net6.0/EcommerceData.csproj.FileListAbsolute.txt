@@ -13,3 +13,18 @@ G:\Projects\Ecommerce-backend\EcommerceData\obj\Debug\net6.0\EcommerceData.dll
 G:\Projects\Ecommerce-backend\EcommerceData\obj\Debug\net6.0\refint\EcommerceData.dll
 G:\Projects\Ecommerce-backend\EcommerceData\obj\Debug\net6.0\EcommerceData.pdb
 G:\Projects\Ecommerce-backend\EcommerceData\obj\Debug\net6.0\ref\EcommerceData.dll
+D:\Project Pukar\Ecommerce-backend\Ecommerce-backend\EcommerceData\bin\Debug\net6.0\EcommerceData.deps.json
+D:\Project Pukar\Ecommerce-backend\Ecommerce-backend\EcommerceData\bin\Debug\net6.0\EcommerceData.dll
+D:\Project Pukar\Ecommerce-backend\Ecommerce-backend\EcommerceData\bin\Debug\net6.0\EcommerceData.pdb
+D:\Project Pukar\Ecommerce-backend\Ecommerce-backend\EcommerceData\bin\Debug\net6.0\EcommerceDB.dll
+D:\Project Pukar\Ecommerce-backend\Ecommerce-backend\EcommerceData\bin\Debug\net6.0\EcommerceDB.pdb
+D:\Project Pukar\Ecommerce-backend\Ecommerce-backend\EcommerceData\obj\Debug\net6.0\EcommerceData.csproj.AssemblyReference.cache
+D:\Project Pukar\Ecommerce-backend\Ecommerce-backend\EcommerceData\obj\Debug\net6.0\EcommerceData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Pukar\Ecommerce-backend\Ecommerce-backend\EcommerceData\obj\Debug\net6.0\EcommerceData.AssemblyInfoInputs.cache
+D:\Project Pukar\Ecommerce-backend\Ecommerce-backend\EcommerceData\obj\Debug\net6.0\EcommerceData.AssemblyInfo.cs
+D:\Project Pukar\Ecommerce-backend\Ecommerce-backend\EcommerceData\obj\Debug\net6.0\EcommerceData.csproj.CoreCompileInputs.cache
+D:\Project Pukar\Ecommerce-backend\Ecommerce-backend\EcommerceData\obj\Debug\net6.0\EcommerceData.csproj.CopyComplete
+D:\Project Pukar\Ecommerce-backend\Ecommerce-backend\EcommerceData\obj\Debug\net6.0\EcommerceData.dll
+D:\Project Pukar\Ecommerce-backend\Ecommerce-backend\EcommerceData\obj\Debug\net6.0\refint\EcommerceData.dll
+D:\Project Pukar\Ecommerce-backend\Ecommerce-backend\EcommerceData\obj\Debug\net6.0\EcommerceData.pdb
+D:\Project Pukar\Ecommerce-backend\Ecommerce-backend\EcommerceData\obj\Debug\net6.0\ref\EcommerceData.dll
