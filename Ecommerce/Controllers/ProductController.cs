@@ -25,6 +25,7 @@ namespace Ecommerce.Controllers
             }
             return entity;
         }
+
         [HttpGet("{id}")]
         public async Task<ActionResult<Product>> Get(int id)
         {
@@ -36,6 +37,7 @@ namespace Ecommerce.Controllers
             }
             return entity;
         }
+
         [HttpPost]
         public async Task<ActionResult> Product(Product product)
         {
@@ -58,6 +60,14 @@ namespace Ecommerce.Controllers
             await _product.UpdateAsync(dbProduct);
             return CreatedAtAction(nameof(Get), new { id = product.Id }, product);
         }
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteProduct(int id)
+        {
+            await _product.DeleteAsync(id);
+            return CreatedAtAction(nameof(Get), new { message = "Deleted" });
+        }
+
 
     }
 }
